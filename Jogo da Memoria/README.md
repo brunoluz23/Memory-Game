@@ -1,1 +1,0 @@
-Projeto do curso do ERICK WENDEL sobre Javascript
